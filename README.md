@@ -19,6 +19,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/gpgardner/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-George%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gpgardner/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-George%20Gardner-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:gpgardner@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-gpgardner@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
