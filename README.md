@@ -1,5 +1,4 @@
 <h2> Hey there! I'm George.</h2>
-<hr/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
