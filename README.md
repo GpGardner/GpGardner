@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java | C#
-- 🌐 &nbsp; Node.js | ReactJS | Firebase | HTML | CSS | Bootstrap | Material-UI 
+- 🌐 &nbsp; Node.js | ReactJS | Express | Firebase | HTML | CSS | Bootstrap | Material-UI 
 - 🛢 &nbsp; MySQL | MongoDB | Postgres 
 - 🔧 &nbsp; Git | Markdown 
 
