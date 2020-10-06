@@ -8,10 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Java | C#
-- 🌐 &nbsp; Node.js | ReactJS | Express | Firebase | HTML | CSS | Bootstrap | Material-UI 
+- 💻 &nbsp; JavaScript | Java
+- 🌐 &nbsp; Node.js | ReactJS | Express | Firebase | HTML | CSS | Bootstrap | Material-UI | Springboot
 - 🛢 &nbsp; MySQL | MongoDB | Postgres 
-- 🔧 &nbsp; Git | Markdown 
+- 🔧 &nbsp; Git | Markdown
 
 <br/>
 
