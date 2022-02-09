@@ -3,14 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web pages / apps.
-- 💼 &nbsp; Working as an Instructor at Tech Talent South.
+- 💼 &nbsp; Working as an Application Software Developer at Centene.
 - 🌱 &nbsp; Building computers is a hobby of mine.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Java
-- 🌐 &nbsp; Node.js | ReactJS | Express | Firebase | HTML | CSS | Bootstrap | Material-UI | Springboot
-- 🛢 &nbsp; MySQL | MongoDB | Postgres 
+- 💻 &nbsp; Golang | Java | JavaScript
+- 🛢 &nbsp; MongoDB | SQL | Postgres 
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
