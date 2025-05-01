@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web pages / apps.
-- 💼 &nbsp; Working as an Application Software Developer at Centene.
+- 💼 &nbsp; Senior Software Engineer
 - 🌱 &nbsp; Building computers is a hobby of mine.
 
 <h3>🛠 Tech Stack</h3>
